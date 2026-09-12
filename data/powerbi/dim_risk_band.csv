@@ -1,0 +1,4 @@
+risk_band_key,risk_band,min_predicted_rul,max_predicted_rul,sort_order,meaning
+1,PRIORITY REVIEW,0,29.999999,1,Illustrative portfolio band for the lowest predicted RUL values; not a certified maintenance limit.
+2,MONITOR,30,59.999999,2,Illustrative portfolio band for intermediate predicted RUL values; not a certified maintenance limit.
+3,LOWER PRIORITY,60,,3,Illustrative portfolio band for higher predicted RUL values; not a certified maintenance limit.

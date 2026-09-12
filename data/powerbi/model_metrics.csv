@@ -1,0 +1,8 @@
+model_name,evaluation_scope,metric,value,unit
+baseline_raw_available,NASA FD001 official test final engine snapshots,MAE,19.848312501295002,cycles
+baseline_raw_available,NASA FD001 official test final engine snapshots,RMSE,26.464054673984926,cycles
+baseline_raw_available,NASA FD001 official test final engine snapshots,R2,0.5944417634153363,score
+baseline_raw_available,NASA FD001 official test final engine snapshots,Mean Error Bias,-9.722705589318092,cycles
+baseline_raw_available,NASA FD001 official test final engine snapshots,Within ±10 Cycles,37.0,percent
+baseline_raw_available,NASA FD001 official test final engine snapshots,Within ±20 Cycles,60.0,percent
+baseline_raw_available,NASA FD001 official test final engine snapshots,Within ±30 Cycles,74.0,percent
